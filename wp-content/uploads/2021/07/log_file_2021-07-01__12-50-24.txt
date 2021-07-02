@@ -1,0 +1,114 @@
+
+---Downloaded files---
+The import files for: Seodo Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/alura-viagens
+Data file = C:\xampp\htdocs\alura-viagens/wp-content/uploads/2021/07/demo-content-import-file_2021-07-01__12-50-24.xml
+Widget file = C:\xampp\htdocs\alura-viagens/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-01__12-50-24.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Aside Bar : 
+
+HTML personalizado - No Title - Imported
+
+Sidebar : 
+
+Pesquisar - No Title - Widget already exists
+Posts recentes - No Title - Widget already exists
+Comentários - No Title - Widget already exists
+Arquivos - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+HTML personalizado - No Title - Imported
+
+Footer 2 : 
+
+Mailchimp Sign-Up Form - OUR NEWSLETTER! - Imported
+
+Footer 3 : 
+
+HTML personalizado - WILD PLANTS - Imported
+
+Footer 4 : 
+
+HTML personalizado - NATURE REZERVES - Imported
+
+Footer 5 : 
+
+HTML personalizado - CONTACT INFO - Imported
+
+
+
+---ocdi/after_import---
+
